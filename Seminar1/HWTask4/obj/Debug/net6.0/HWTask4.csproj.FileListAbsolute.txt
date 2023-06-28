@@ -1,0 +1,15 @@
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\bin\Debug\net6.0\HWTask4.exe
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\bin\Debug\net6.0\HWTask4.deps.json
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\bin\Debug\net6.0\HWTask4.runtimeconfig.json
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\bin\Debug\net6.0\HWTask4.dll
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\bin\Debug\net6.0\HWTask4.pdb
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\HWTask4.csproj.AssemblyReference.cache
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\HWTask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\HWTask4.AssemblyInfoInputs.cache
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\HWTask4.AssemblyInfo.cs
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\HWTask4.csproj.CoreCompileInputs.cache
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\HWTask4.dll
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\refint\HWTask4.dll
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\HWTask4.pdb
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\HWTask4.genruntimeconfig.cache
+C:\Users\pahom\Desktop\GeekBrains\Seminar1\HWTask4\obj\Debug\net6.0\ref\HWTask4.dll
