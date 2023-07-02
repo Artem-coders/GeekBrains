@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\bin\Debug\net7.0\HWTask5.1.exe
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\bin\Debug\net7.0\HWTask5.1.deps.json
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\bin\Debug\net7.0\HWTask5.1.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\bin\Debug\net7.0\HWTask5.1.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\bin\Debug\net7.0\HWTask5.1.pdb
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\HWTask5.1.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\HWTask5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\HWTask5.1.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\HWTask5.1.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\HWTask5.1.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\HWTask5.1.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\refint\HWTask5.1.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\HWTask5.1.pdb
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\HWTask5.1.genruntimeconfig.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\HWTask5.1\obj\Debug\net7.0\ref\HWTask5.1.dll
