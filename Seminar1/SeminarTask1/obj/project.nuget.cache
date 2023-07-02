@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IqZ0ZtVUI7PUPWvgelSMeSfX/6Wj/PGddC76qA1Hq89TaLkv103pp4eu1NxShhtpiNtNbgJkv/0WgaSUFhsy4w==",
+  "dgSpecHash": "n+8GRFcb3taCYMTuduiySOerhbiNWP9xXjQkDCO+6Evzryx1ldGIIb8uRzNKhCdlkAtI+HzRRanfiwZJlkn2UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pahom\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\HUAWEI\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\HUAWEI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

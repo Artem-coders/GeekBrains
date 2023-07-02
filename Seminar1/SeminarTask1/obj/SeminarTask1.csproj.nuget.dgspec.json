@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pahom\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj": {}
+    "c:\\Users\\HUAWEI\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pahom\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj": {
+    "c:\\Users\\HUAWEI\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pahom\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj",
+        "projectUniqueName": "c:\\Users\\HUAWEI\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj",
         "projectName": "SeminarTask1",
-        "projectPath": "C:\\Users\\pahom\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj",
-        "packagesPath": "C:\\Users\\pahom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pahom\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\obj\\",
+        "projectPath": "c:\\Users\\HUAWEI\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\SeminarTask1.csproj",
+        "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\HUAWEI\\Desktop\\GeekBrains\\Seminar1\\SeminarTask1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pahom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
