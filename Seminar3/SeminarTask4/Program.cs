@@ -10,7 +10,7 @@ double GetLength(double point1_crd1, double point1_crd2, double point2_crd1, dou
 Console.Write("Please, enter x1: ");
 double x1 = double.Parse(Console.ReadLine());
 
-Console.Write("Please, enter 1: ");
+Console.Write("Please, enter y1: ");
 double y1 = double.Parse(Console.ReadLine());
 
 Console.Write("Please, enter x2: ");
