@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\bin\Debug\net7.0\SeminarTask2.exe
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\bin\Debug\net7.0\SeminarTask2.deps.json
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\bin\Debug\net7.0\SeminarTask2.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\bin\Debug\net7.0\SeminarTask2.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\bin\Debug\net7.0\SeminarTask2.pdb
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\SeminarTask2.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\SeminarTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\SeminarTask2.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\SeminarTask2.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\SeminarTask2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\SeminarTask2.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\refint\SeminarTask2.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\SeminarTask2.pdb
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\SeminarTask2.genruntimeconfig.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar4\SeminarTask2\obj\Debug\net7.0\ref\SeminarTask2.dll
