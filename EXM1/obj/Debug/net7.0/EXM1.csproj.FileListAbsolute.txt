@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\EXM1.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\EXM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\EXM1.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\EXM1.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\EXM1.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\bin\Debug\net7.0\EXM1.exe
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\bin\Debug\net7.0\EXM1.deps.json
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\bin\Debug\net7.0\EXM1.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\bin\Debug\net7.0\EXM1.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\bin\Debug\net7.0\EXM1.pdb
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\EXM1.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\refint\EXM1.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\EXM1.pdb
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\EXM1.genruntimeconfig.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\EXM1\obj\Debug\net7.0\ref\EXM1.dll
