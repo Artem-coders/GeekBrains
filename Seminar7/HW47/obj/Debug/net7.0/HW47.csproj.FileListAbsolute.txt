@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\HW47.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\HW47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\HW47.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\HW47.AssemblyInfo.cs
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\HW47.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\bin\Debug\net7.0\HW47.exe
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\bin\Debug\net7.0\HW47.deps.json
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\bin\Debug\net7.0\HW47.runtimeconfig.json
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\bin\Debug\net7.0\HW47.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\bin\Debug\net7.0\HW47.pdb
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\HW47.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\refint\HW47.dll
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\HW47.pdb
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\HW47.genruntimeconfig.cache
+C:\Users\HUAWEI\Desktop\GeekBrains\Seminar7\HW47\obj\Debug\net7.0\ref\HW47.dll
