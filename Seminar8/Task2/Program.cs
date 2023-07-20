@@ -34,20 +34,22 @@ int[,] TranspondSquareArray(int[,] matrix)
          Console.WriteLine("нет");
     }
 
-    int[,] tmpMatrix = new int[matrix.GetLength(0), matrix.GetLength(1)];
+    int tmpElement = 0;
 
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        for (int j = 0; j < matrix.GetLength(1); j++)
+        for (int j = 0; j < i; j++)
         {
-            tmpMatrix[j, i] = matrix[i, j];
+            tmpElement = matrix[i, j];
+            matrix[i,j] = matrix[j,i];
+            matrix[j,i] = tmpElement;
         }
         
     }
-    return tmpMatrix;
+    return matrix;
 }
 /////////////////////
-int[,] testArray = FillIntMatrix(4, 4);
+int[,] testArray = FillIntMatrix(2, 2);
 Print2dIntMatrix(testArray);
 Console.WriteLine();
 int[,] newArray = TranspondSquareArray(testArray);
